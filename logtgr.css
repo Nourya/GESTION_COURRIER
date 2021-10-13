@@ -1,0 +1,61 @@
+form{
+    
+     width:50%;
+     margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #7b38d8;
+    background-image: url('envel.jpg');
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    font-size: 15px;
+    text-align: center;
+    
+   
+}
+
+
+input[type=submit] {
+    background-color: #0f056b;
+    color: white;
+    padding: 10px 15px;
+    margin: 20px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    border-radius: 15px;
+    border: 4px double #cccccc;
+
+}
+
+body{
+    font-size: 200px;  
+    color: #A52A2A;
+}
+.hi{
+    height: 830px;
+}
+
+div{
+    text-align: center;
+}
+.a{
+    float: center;
+}
+.r{
+    background: url("user.png");
+    background-repeat: no-repeat;
+background-position: 2px 5px;
+background-size: 15px; 
+padding-left: 27px;
+}
+.l{
+    background-image: url('password.png');
+}
+.input-icone input[type=text] {
+padding-left:50px; }
+.input-icone{
+position:relative;
+font-size: 30px;
+ }
+.input-icone i{
+position:absolute; left:250px; top: -5px; padding:9px 8px; color:#0f056b; }
+
