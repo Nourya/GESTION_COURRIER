@@ -1,0 +1,48 @@
+div a{
+text-align: center
+color: #FF0000;
+}
+form{
+	text-align: center;
+	font-size: 24px;
+}
+table{
+    width: 90%;
+    text-align: center;
+     
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th{
+    background: #00a9b0;
+    color: #f3f3f3;
+    padding: 3px 0;
+    background-color: #7b38d8;
+}
+div{
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 200px;
+}
+.p{
+    height: 900px;
+}
+button{
+display: inline-block;
+background-color: #7b38d8;
+border-radius: 20px;
+border: 4px double #cccccc;
+color: #eeeeee;
+text-align: center;
+font-size: 15px;
+padding: 10px;
+width: 140px;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+-o-transition: all 0.5s;
+transition: all 0.5s;
+cursor: pointer;
+margin: 5px;
+}
